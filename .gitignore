@@ -10,3 +10,7 @@
 *.h5
 
 *.binaryproto
+
+*.pyc
+
+*.npy
