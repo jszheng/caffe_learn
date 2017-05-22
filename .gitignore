@@ -1,0 +1,12 @@
+
+\.idea/
+
+*.mdb
+
+*.caffemodel
+
+*.solverstate
+
+*.h5
+
+*.binaryproto
